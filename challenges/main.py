@@ -57,6 +57,7 @@ while True:
         print(f"\n Amount: £{amount:.2f}")
     
     elif option == "e":
+        print("Thanks for using our system")
         break
 
     else:
